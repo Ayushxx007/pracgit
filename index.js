@@ -5,3 +5,7 @@ function one(){
 function two(){
     return;
 }
+
+function three(){
+    return;
+}
