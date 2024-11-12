@@ -19,3 +19,9 @@ let five=()=>{
     
 }
 
+let six=()=>{
+    return ;
+    
+}
+
+
