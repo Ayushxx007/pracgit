@@ -23,5 +23,8 @@ let six=()=>{
     return ;
     
 }
-
+let shruti=()=>{
+    return ;
+    
+}
 
