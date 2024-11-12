@@ -9,3 +9,7 @@ function two(){
 function three(){
     return;
 }
+
+function four(){
+    return;
+}
