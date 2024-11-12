@@ -13,3 +13,9 @@ function three(){
 function four(){
     return;
 }
+
+let five=()=>{
+    return ;
+    
+}
+
